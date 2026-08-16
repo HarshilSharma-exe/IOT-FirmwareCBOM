@@ -1,0 +1,29 @@
+# Build directories
+build/
+cmake-build-*/
+out/
+
+# CMake artifacts
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+!CMakeLists.txt
+
+# Compiled objects/binaries
+*.o
+*.obj
+*.exe
+firmwarecbom
+test_scanner
+
+# Generated output (keep the folder, ignore generated contents)
+output/*.json
+output/*.txt
+
+# Editor/OS files
+.vscode/
+.idea/
+*.swp
+.DS_Store
