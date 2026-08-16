@@ -8,7 +8,7 @@ the cryptographic equivalent of a Software Bill of Materials (SBOM).
 
 > A normal SBOM answers *"what software components are present?"*
 > A CBOM answers *"what cryptographic components are present?"*
-> **FirmwareCBOM** asks *"what cryptographic components are present in IoT firmware, and what is their security status?"*
+> **FirmwareCBOM** asks *"what cryptographic components are present in IoT firmware, and what is their security status?"* -
 
 ## Problem
 
