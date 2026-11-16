@@ -70,7 +70,7 @@ data out of the scanning logic, so adding a new algorithm never requires touchin
 
 ```bash
 git clone https://github.com/HarshilSharma-exe/IOT-FirmwareCBOM.git
-cd FirmwareCBOM
+cd IOT-FirmwareCBOM
 mkdir build && cd build
 cmake ..
 make
