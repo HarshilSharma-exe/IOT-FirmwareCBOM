@@ -69,7 +69,7 @@ data out of the scanning logic, so adding a new algorithm never requires touchin
 ## How to build and run
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/HarshilSharma-exe/IOT-FirmwareCBOM.git
 cd FirmwareCBOM
 mkdir build && cd build
 cmake ..
